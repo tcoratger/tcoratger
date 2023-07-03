@@ -1,6 +1,6 @@
 # Thomas Coratger
 ### Computational physics doctor 💻
-Web3 developer/researcher 🚀 Building stuffs around DeFi and NFTs.
+Web3 developer/researcher 🚀
 
 ⤷ Democratizing Web3 through building robust infrastructure and tackling low-level coding challenges, fueled by passion for crypto and decentralized systems.
 
